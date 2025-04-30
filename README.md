@@ -2,7 +2,7 @@
 This project classifies brain tumors from MRI images using deep learning models such as CNN, VGG16, and ResNet50.
 
 ## Dataset
-Download dataset from [Cick here](https://your-link.com](https://drive.google.com/drive/folders/16zxQtxWIdQTkzEuHDwIoDsHT2NgRT3yI?usp=drive_link)) 
+Download dataset from [Cick here](https://drive.google.com/drive/folders/16zxQtxWIdQTkzEuHDwIoDsHT2NgRT3yI?usp=sharing) 
 - MRI brain scans categorized into:
   - **Glioma**
   - **Meningioma**
